@@ -1,0 +1,7 @@
+flask==3.0.3
+google-auth
+google-cloud-discoveryengine
+google-cloud-aiplatform
+google-cloud-modelarmor
+requests
+vertexai
