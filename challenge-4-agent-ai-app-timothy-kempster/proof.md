@@ -1,11 +1,4 @@
 # Challenge 4: Building Agents with AI Applications
-## Proof of Completion
-
-**Project:** qwiklabs-gcp-04-a13cec945fb9  
-**Date:** June 15, 2026  
-**Platform:** Google Cloud Conversational Agents (Gemini Enterprise)
-
----
 
 ## Overview
 
