@@ -31,7 +31,7 @@ details — this top-level README is just the map.
 
 ---
 
-## For Doug (or anyone else :D)
+## [For Doug](https://github.com/tkempste/genai-skills-workshop-tkempste/issues/1) (or anyone else :D)
 
 Challenges 1–3 are **Jupyter notebooks** meant to run in **Agent Platform / Colab Enterprise**;
 Challenge 4 is **screenshots + an exported agent**; Challenge 5 is a notebook **plus a live
